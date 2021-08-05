@@ -43,6 +43,6 @@ Planned visualization program: Tableau
 
 Presentation:
 
-Tableau:  https://public.tableau.com/app/profile/rachel.thorpe/viz/Chicago-Real-Estate-Project/Dashboard1?publish=yes
+Tableau:  https://public.tableau.com/app/profile/leila8184/viz/ChicagoHousePriceIndexPrediction/Dashboard1
 
 Google slides: https://docs.google.com/presentation/d/1ictJNZHuqU_MD-ZoIFwkH-aodGoXvOo6AD96qxXeBOI/edit?usp=sharing
