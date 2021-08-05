@@ -38,3 +38,11 @@ National Case Schiller Home Price Index: https://fred.stlouisfed.org/series/CSUS
 Planned ML library: Scikit-Learn
 
 Planned visualization program: Tableau
+
+---------------------------------------------------------------------------------------
+
+Presentation:
+
+Tableau:  https://public.tableau.com/app/profile/rachel.thorpe/viz/Chicago-Real-Estate-Project/Dashboard1?publish=yes
+
+Google slides: https://docs.google.com/presentation/d/1ictJNZHuqU_MD-ZoIFwkH-aodGoXvOo6AD96qxXeBOI/edit?usp=sharing
